@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 3,
-      "name": "Averyl Biddles 2",
-      "email": "abiddles2@whitehouse.gov",
+      "name": "Manuel Enriquez",
+      "email": "menriquez@mailto.io",
       "status": 0
     },
     {
@@ -16,7 +16,7 @@
       "id": 5,
       "name": "Birk Melvin",
       "email": "bmelvin4@ycombinator.com",
-      "status": 0
+      "status": 1
     },
     {
       "id": 6,
@@ -39,8 +39,8 @@
     {
       "id": 9,
       "name": "Quinlan Spragg",
-      "email": "qspragg8@ameblo.jp",
-      "status": 1
+      "email": "qspragg88@ameblo.jp",
+      "status": 0
     },
     {
       "id": 10,
@@ -61,12 +61,6 @@
       "status": 1
     },
     {
-      "id": 13,
-      "name": "Appolonia Stubbe",
-      "email": "astubbec@wikispaces.com",
-      "status": 1
-    },
-    {
       "id": 14,
       "name": "Geoff Tackell",
       "email": "gtackelld@weibo.com",
@@ -79,9 +73,9 @@
       "status": 1
     },
     {
-      "id": 20,
-      "name": "Alejandro Vivas",
-      "email": "ajvivas86@gmail.com",
+      "id": 21,
+      "name": "Arlenis C Hidalgo M",
+      "email": "marleshidalgo@gmail.com",
       "status": 1
     }
   ]
