@@ -20,7 +20,7 @@ $.fn.fetchData = function() {
   }).catch(function(){
     $("#userList").append(`
     <tr>
-        <td colspan="3">
+        <td colspan="4">
             <div class="alert alert-danger text-center">Error trying to connect to database!</div>
         </td>
     </tr>
